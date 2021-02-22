@@ -6,7 +6,7 @@
     <version>7</version>
   </parent>
 
-  <groupId>com.github.jnr</groupId>
+  <groupId>com.datadobi</groupId>
   <artifactId>jnr-ffi</artifactId>
   <packaging>jar</packaging>
   <version>2.1.9</version>
