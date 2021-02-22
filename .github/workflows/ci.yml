@@ -5,9 +5,9 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ master ]
+    branches: [ datadobi ]
   pull_request:
-    branches: [ master ]
+    branches: [ datadobi ]
 
 jobs:
   jdk8:
